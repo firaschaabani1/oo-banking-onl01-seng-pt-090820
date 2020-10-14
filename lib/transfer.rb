@@ -9,5 +9,4 @@ class Transfer
   end
   
 
-  
 end
